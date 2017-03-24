@@ -12,9 +12,6 @@
       "email": "lobtao@qq.com"
     }
   ],
-  "require": {
-    "luofei614/socketlog": "dev-master"
-  },
   "autoload": {
     "files": [
       "fastFunc2.php"

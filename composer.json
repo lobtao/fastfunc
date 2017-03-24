@@ -1,0 +1,15 @@
+{
+  "name": "lobtao/fastFunc",
+  "description": "fastFunc for Yii",
+  "keywords": ["fastFunc", "Yii"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lobtao",
+      "email": "lobtao@qq.com"
+    }
+  ],
+  "autoload": {
+    "files": ["fastFunc2.php"]
+  }
+}

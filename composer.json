@@ -1,7 +1,10 @@
 {
   "name": "lobtao/fastfunc",
   "description": "fastFunc for Yii",
-  "keywords": ["fastFunc", "Yii"],
+  "keywords": [
+    "fastFunc",
+    "Yii"
+  ],
   "license": "MIT",
   "authors": [
     {
@@ -13,6 +16,8 @@
     "luofei614/socketlog": "dev-master"
   },
   "autoload": {
-    "files": ["fastFunc2.php"]
+    "files": [
+      "fastFunc2.php"
+    ]
   }
 }

@@ -12,6 +12,10 @@
       "email": "lobtao@qq.com"
     }
   ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0"
+  },
   "autoload": {
     "files": [
       "fastFunc2.php"

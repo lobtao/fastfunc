@@ -104,7 +104,7 @@ class Captcha {
     public function check($code, $id = '') {
         $key = $this->authcode($this->seKey) . $id;
         // 验证码不能为空
-        $secode = \Yii::$app->session->set($key, '');
+        $secode = \Yii::$app->session->get($key, '');
         if (empty($code) || empty($secode)) {
             return false;
         }

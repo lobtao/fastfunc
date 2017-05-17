@@ -19,6 +19,9 @@
   "autoload": {
     "files": [
       "fastFunc2.php"
-    ]
+    ],
+    "psr-4": {
+      "yssoft\\cn\\": "src/"
+    }
   }
 }
